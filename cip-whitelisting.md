@@ -12,7 +12,7 @@ created: <2019-02-04>
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the EIP.-->
-This CIP introduces the idea of whitelisting and presents a possible implementation. Whitelisting is based on the idea that a validator in the Cosmos Network should have the ability to restrict who is delegating to them by maintaining a list of public keys (the whitelist).
+This CIP introduces the concept of whitelisting and presents a possible implementation. Whitelisting is based on the idea that a validator in the Cosmos Network should have the ability to restrict who is delegating to them by maintaining a list of public keys (the whitelist).
 
 ## Abstract
 <!--A short (~200 word) description of the technical issue being addressed.-->
