@@ -16,7 +16,7 @@ This CIP introduces the concept of whitelisting and presents a possible implemen
 
 ## Abstract
 <!--A short (~200 word) description of the technical issue being addressed.-->
-The current delegation specification doesn't allow validators to restrict how bonds Atoms with them. The delegation function only looks to see if a validator is currently bonded or not. The function then assigns the delegated Atoms to the stake of that validator, provided the validator of choice is in the active validator set and his status is not currently revoked. The following feature request would introduce a check that queries whether the delegation address is part of the whitelist maintained by the validator before allowing delegation. It also specifies a potential treatement for existing delegations that are not part of this whitelist.
+The current delegation specification doesn't allow validators to restrict who bonds Atoms with them. The delegation function only looks to see if a validator is currently bonded or not. The function then assigns the delegated Atoms to the stake of that validator, provided the validator of choice is in the active validator set and his status is not currently revoked. The following feature request would introduce a check that queries whether the delegation address is part of the whitelist maintained by the validator before allowing delegation. It also specifies a potential treatement for existing delegations that are not part of this whitelist.
 
 ## Motivation
 <!--The motivation is critical for CIPs that want to change the Cosmos protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the CIP solves. CIP submissions without sufficient motivation may be rejected outright.-->
