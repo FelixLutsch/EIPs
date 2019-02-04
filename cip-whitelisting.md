@@ -28,7 +28,7 @@ A draft of a possible implementation can be found [here](https://docs.google.com
 
 ## Rationale
 <!--The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
-The rationale for this feature request is laid out in full detail [here](https://docs.google.com/document/d/1CEfwTyJQPlapOajBo4vYAWklWbm7xuNTtJRQZlQjPDA/edit?ts=5b056c4a). There is wide support for such a feature within the validator community. (OTHER PULL REQUESTS, EVIDENCE?)
+The rationale for this feature request is laid out in full detail [here](https://docs.google.com/document/d/1CEfwTyJQPlapOajBo4vYAWklWbm7xuNTtJRQZlQjPDA/edit?ts=5b056c4a). There is wide support for such a feature within the validator community. (OTHER PULL REQUESTS, EVIDENCE?) https://github.com/cosmos/cosmos-sdk/issues/3290
 
 ## Implementation
 <!--The implementations must be completed before any CIP is given status "Final", but it need not be completed before the CIP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.-->
